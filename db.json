@@ -1,6 +1,6 @@
 {
     "Products":[
-        {"name":"Break","price":15},    
+        {"name":"Break","price":15,"images":["/public/images/chocolate-mousse-torte-cake.png"]},    
         {"name":"Break","price":15},
         {"name":"Break","price":15},
         {"name":"Break","price":15},
