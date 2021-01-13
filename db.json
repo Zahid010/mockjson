@@ -1,17 +1,15 @@
-
-    
 {
     "Products":[
-        {name:'Break',price:15,},    
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
-        {name:'Break',price:15,},
+        {"name":"Break","price":15,},    
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
+        {"name":"Break","price":15,},
     ],
 }
