@@ -1,10 +1,17 @@
+
+    
 {
     "Products":[
-    {"_id":"d0bec62d","title":"Chocolate Mousse Torte Cake","category":"Bakery","brand":"Gaston’s Bakery", "expDate":"05/15/2017","mfdDate":"05/10/2017","size":"7 inches in diameter","price":42.95,"stock":"5","images":["/public/images/chocolate-mousse-torte-cake.png"],"suggestion":["Serves 6 to 8","Ships Nationwide in Refrigerated Packaging","Certified Kof-K Kosher"],"allegations":["Unless otherwise noted, products contain milk, wheat, soy and egg, and were produced on equipment that processes peanuts, almonds, hazelnuts, pecans, walnuts.","Our facility is not Gluten Free."]}
-    {"_id":"eb20d4b1","title":"Triple Chocolate Enrobed Brownie Cake","category":"Bakery","brand":"Gaston’s Bakery","expDate":"05/16/2017","mfdDate":"05/12/2017","size":"7 inches in diameter","price":39.95,"stock":"2","images":["/public/images/triple-chocolate-enrobed-brownie-cake.png"],"suggestion":["Serves 6 to 8","Certified KOF-K Kosher"],"allegations":["Unless otherwise noted, products contain milk, wheat, soy and egg, and were produced on equipment that processes peanuts, almonds, hazelnuts, pecans, walnuts.","Our facility is not Gluten Free."]}
-    {"_id":"fb5d3e97","title":"Reddi Wip Dairy Whipped Topping Extra Creamy Aerosol Refrigerated","category":"Dairy","brand":"Daiya Dairy","expDate":"05/14/2017","mfdDate":"08/14/2017","size":"6.5 oz can","price":3.19,"stock":"7","images":["/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-1.jpg","/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-2.jpg","/public/images/reddi-wip-dairy-whipped-topping-extra-creamy-aerosol-refrigerated-3.jpg"],"suggestion":[" Shake it! Shake it! 4 times before use then remove cap.","Turn can completely upside down and press nozzle sideways with finger.","Rinse nozzle thoroughly with warm water. "],"allegations":["Contains: milk.","Deliberately concentrating and inhaling the contents can be harmful or fatal.","Contents under pressure.","Do not expose to temperatures above 120 degrees F.","Do not puncture or incinerate can.","Keep out of the reach of children.","Choking hazard, cap contains small parts."]}
-    {"_id":"61cea535","title":"Red Velvet Chocolate Cake","category":"Bakery","brand":"Cake Factory","expDate":"05/18/2017","mfdDate":"05/15/2017","size":"7 inches in diameter","price":42.95,"stock":"4","images":["/public/images/red-velvet-chocolate-cake.png"],"suggestion":["Serves 6 to 8","Certified KOF-K Kosher","Ships Nationwide in Refrigerated Packaging"],"allegations":["Unless otherwise noted, products contain milk, wheat, soy and egg, and were produced on equipment that processes peanuts, almonds, hazelnuts, pecans, walnuts.","Our facility is not Gluten Free."]}
-    {"_id":"55675009","title":"Deep Cocktail Samosa (Potato \u0026 Pea)","category":"Frozen","brand":"Deep","expDate":"03/21/2017","mfdDate":"08/03/2017","size":"40 pcs","price":4.99,"stock":"6","images":["/public/images/deep-cocktail-samosa-potato-pea.jpg"],"suggestion":["Keep frozen."],"allegations":["Contains Eggs","High Spices","Contains Preservatives"]}
-    ]
-    }
-    
+        {name:'Break',price:15,},    
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+        {name:'Break',price:15,},
+    ],
+}
