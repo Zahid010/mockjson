@@ -1,6 +1,6 @@
 {
     "Products":[
-        {"name":"Prider man Bag","discription":"Sweet Princes Barbie School Bag For Girls - Nursery To Pre", "price":45,"images":["/public/images/1.png"],"count":0},    
+        {"name":"Prider man Bag","discription":"Sweet Princes Barbie School Bag For Girls - Nursery To Pre", "price":45,"images":["/public/images/1.jpg"],"count":0},    
         {"name":"Pink Bag","price":25,"discription":"Beautiful Printed Backpack School Bag Notebook Bag","images":["/public/images/2.png"],"count":0},
         {"name":"Bag","price":20,"discription":"Leesun London-White Backpack Rucksack School Bag","images":["/public/images/3.png"],"count":0},
         {"name":"Stylish Bag","discription":"Sweet Princes Barbie School Bag For Girls - Nursery To Pre","price":35,"images":["/public/images/4.png"],"count":0},
